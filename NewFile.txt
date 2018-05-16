@@ -1,0 +1,8 @@
+.       ['containing paper or paperboard made mainly from pulp obtained by a chemi mechanical process, as follows  weighing more than 205 g/sqm', 205.0, 'No Limit', 'gram']
+
+2.       ['contaminated with or containing polychlorinated biphenyls   not exceeding 5000 kva', 0, 5000.0, 'dimensionless']
+
+3.       ['cooking wine not exceeding 15 degree', 0, 15.0, 'degree angle']
+
+4.       ["cotton yarn, unbleached, ne exceeding 8.27's or less, containing 85% or more by weight of cotton", 'Not-Applicable', 'Not-Applicable', 'Dimension-Less']
+
